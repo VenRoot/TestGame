@@ -1,0 +1,27 @@
+{
+  "name": "testgame",
+  "version": "1.0.0",
+  "description": "A simple testgame",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VenRoot/TetsGame.git"
+  },
+  "keywords": [
+    "Ven",
+    "TestGame",
+    "Phaser",
+    "NodeJS",
+    "Electron",
+    "VenRoot"
+  ],
+  "author": "Ven",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VenRoot/TetsGame/issues"
+  },
+  "homepage": "https://github.com/VenRoot/TetsGame#readme"
+}
